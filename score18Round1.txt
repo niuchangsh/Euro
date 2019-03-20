@@ -1,0 +1,16 @@
+GroupA A1 1 1 D1
+GroupA B1 0 2 C1
+GroupA C1 0 3 B1
+GroupA D1 4 4 A1
+GroupB A2 1 1 D2
+GroupB B2 3 2 C2
+GroupB C2 1 3 B2
+GroupB D2 1 4 A2
+GroupC A3 2 1 D3
+GroupC B3 1 2 C3
+GroupC C3 2 3 B3
+GroupC D3 2 4 A3
+GroupD A4 3 1 D4
+GroupD B4 0 2 C4
+GroupD C4 3 3 B4
+GroupD D4 3 4 A4
